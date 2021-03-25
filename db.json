@@ -1,18 +1,21 @@
 {
     "materialEducativo": [
         {
+            "id": 1,
             "titulo": "Título",
             "texto": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
             "materia": "Matemática",
             "ano": "1° Ano"
         },
         {
+            "id": 2,
             "titulo": "Título",
             "texto": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
             "materia": "Matemática",
             "ano": "1° Ano"
         },
         {
+            "id": 3,
             "titulo": "Título",
             "texto": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
             "materia": "História",
